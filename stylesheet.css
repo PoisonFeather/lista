@@ -1,0 +1,33 @@
+  li{
+  font-size:200%;
+  font-family:mv boli;
+  font-weight:700;
+  animation: fadein 2.5s;
+}
+
+input{
+  border:2px solid yellow;
+  background-color:#38a5ff;
+  border-radius:4px;
+  width:50%;
+  font-size:25px;
+  font-family:segoe script;
+
+}
+
+input:focus{
+  transition:border 0.75s;
+  border:5px solid yellow;
+}
+
+@keyframes fadein{
+  from{opacity:0;}
+  to{opacity1;}
+}
+
+p{
+  font-size:200%;
+  font-family:mv boli;
+  font-weight:700;
+  animation: fadein 2.5s;
+}
